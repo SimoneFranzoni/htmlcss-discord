@@ -1,0 +1,79 @@
+/*lavoro sul main*/
+.box-grey{
+    height: 350px;
+    background-color: #f6f6f6;
+}
+
+.box-white{
+    height: 350px;
+}
+
+.last-box{
+    height: fit-content;
+    background-color: #f6f6f6;
+}
+
+.block{
+    margin-left: 15%;
+    margin-right: 15%;
+    height: fit-content;
+}
+
+.photo-left{
+    height: 350px;
+    width: 60%;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.photo-right{
+    height: 350px;
+    width: 60%;
+    float: right;
+    padding-bottom: 10px;
+}
+
+.photo-botton{
+    width: 100%;
+}
+
+.textbox{
+    padding-top: 30px;
+    font-size: 20px; 
+}
+
+h2{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.last-box h2{
+    text-align: center;
+}
+
+.ciao{
+    font-size: 20px;
+    color: white;
+    padding: 20px 15px;
+    background-color: #8ea1e2;
+    text-decoration: none;
+    border-radius: 40px;
+    text-align: center;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+/*inizio header*/
+footer{
+    margin-top: 20px;
+    background-color: #23272a;
+    padding-top: 40px;
+}
+
+footer ul{
+    color: white;
+}
+
+.head{
+    color: #7289da;
+}
