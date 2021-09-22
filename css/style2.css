@@ -63,17 +63,43 @@ h2{
     margin-left: 40%;
 }
 
-/*inizio header*/
+/*inizio footer*/
 footer{
     margin-top: 20px;
     background-color: #23272a;
-    padding-top: 40px;
+    padding-top: 100px;
+    padding-left: 10%;
+    padding-right: 20%;
 }
 
 footer ul{
     color: white;
+    list-style: none;
+    margin-bottom: 40px;
 }
 
-.head{
+footer li{
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+footer ul :first-child{
     color: #7289da;
+}
+
+#first-ul{
+    position: relative;
+    float: left;
+    font-size: 30px;
+    width: 30%;
+    background-color: #23272a;
+}
+
+.list{
+    width: 16%;
+    background-color: #23272a;
+    position: relative;
+    float: left;
+    margin-right: 10px;
+    font-size:15px
 }
